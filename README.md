@@ -1,3 +1,5 @@
+A clone of Netflix built with React to practice API use as well as CSS styling within React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
